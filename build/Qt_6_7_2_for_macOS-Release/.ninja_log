@@ -1,0 +1,17 @@
+# ninja log v6
+4	3178	1738753302771651970	New_dash_autogen/timestamp	70a464897c864894
+4	3178	1738753302771651970	New_dash_autogen/mocs_compilation.cpp	70a464897c864894
+4	3178	1738753302771651970	/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-Release/New_dash_autogen/timestamp	70a464897c864894
+4	3178	1738753302771651970	/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-Release/New_dash_autogen/mocs_compilation.cpp	70a464897c864894
+3183	4545	1738753304146475499	New_dash_autogen/EWIEGA46WW/qrc_Icon.cpp	d908f151cf6c3cc6
+3183	4545	1738753304146475499	/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-Release/New_dash_autogen/EWIEGA46WW/qrc_Icon.cpp	d908f151cf6c3cc6
+4553	11618	1738753304193538472	CMakeFiles/New_dash.dir/serialsimulator.cpp.o	8964162b095f94f6
+4551	12629	1738753304191742597	CMakeFiles/New_dash.dir/imu.cpp.o	82c7521f0b563318
+4550	12689	1738753304190322359	CMakeFiles/New_dash.dir/battery.cpp.o	5eb9d143563cad29
+4547	13135	1738753304187432147	CMakeFiles/New_dash.dir/main.cpp.o	64fcb0890fed805c
+4545	13782	1738753304185803700	CMakeFiles/New_dash.dir/New_dash_autogen/mocs_compilation.cpp.o	4ae0530c296c1f10
+4548	13899	1738753304188881354	CMakeFiles/New_dash.dir/mainwindow.cpp.o	8015a41a4f6274ea
+11622	15105	1738753311262972790	CMakeFiles/New_dash.dir/serial.cpp.o	f6e70369a776b521
+12629	16068	1738753312269957579	CMakeFiles/New_dash.dir/weather.cpp.o	4cdc95ca0a5ec7d
+12690	24266	1738753312330641394	CMakeFiles/New_dash.dir/New_dash_autogen/EWIEGA46WW/qrc_Icon.cpp.o	46770b3d488f0775
+24266	24632	1738753323907565119	New_dash.app/Contents/MacOS/New_dash	73d7a94a7a95dbbf

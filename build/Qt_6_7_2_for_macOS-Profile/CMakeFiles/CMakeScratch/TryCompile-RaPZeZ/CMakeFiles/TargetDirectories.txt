@@ -1,0 +1,3 @@
+/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-Profile/CMakeFiles/CMakeScratch/TryCompile-RaPZeZ/CMakeFiles/cmTC_3b494.dir
+/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-Profile/CMakeFiles/CMakeScratch/TryCompile-RaPZeZ/CMakeFiles/edit_cache.dir
+/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-Profile/CMakeFiles/CMakeScratch/TryCompile-RaPZeZ/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-RelWithDebInfo/CMakeFiles/New_dash.dir
+/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-RelWithDebInfo/CMakeFiles/edit_cache.dir
+/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-RelWithDebInfo/CMakeFiles/rebuild_cache.dir
+/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-RelWithDebInfo/CMakeFiles/list_install_components.dir
+/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-RelWithDebInfo/CMakeFiles/install.dir
+/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-RelWithDebInfo/CMakeFiles/install/local.dir
+/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-RelWithDebInfo/CMakeFiles/install/strip.dir
+/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-RelWithDebInfo/CMakeFiles/New_dash_autogen_timestamp_deps.dir
+/Users/jzpfbm/qt项目/New_dash/build/Qt_6_7_2_for_macOS-RelWithDebInfo/CMakeFiles/New_dash_autogen.dir

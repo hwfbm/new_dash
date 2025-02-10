@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cloudy-day.png</file>
+        <file>cloudy.gif</file>
+        <file>sun.gif</file>
+        <file>snow.gif</file>
+        <file>sun_rain.gif</file>
+        <file>rain.gif</file>
+        <file>storm.gif</file>
+        <file>good-review.gif</file>
+        <file>bad-review.gif</file>
+        <file>clouds.gif</file>
+    </qresource>
+</RCC>
