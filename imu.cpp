@@ -536,7 +536,7 @@ void Imu::drawScale(QPainter &painter)
 // **绘制飞机水平位置线（地平线指示线）**
 void Imu::drawHorizonLine(QPainter &painter, int centerX, int centerY, int dashboardRadius, int roll)
 {
-    painter.save(); // 保存当前 painter 状态
+    painter.save(); // 保存当前 painter 状态（git）
     painter.translate(centerX, centerY); // 移动坐标到仪表盘中心
    // painter.rotate(-roll); // 绕中心点旋转 Roll 角度（左偏为正，右偏为负）
 
