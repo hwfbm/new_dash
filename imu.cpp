@@ -540,7 +540,7 @@ void Imu::drawHorizonLine(QPainter &painter, int centerX, int centerY, int dashb
     painter.translate(centerX, centerY); // 移动坐标到仪表盘中心
    // painter.rotate(-roll); // 绕中心点旋转 Roll 角度（左偏为正，右偏为负）
 
-    // **绘制水平指示线**
+    // **绘制水平指示线(git)**
     int lineLength = dashboardRadius * 1.5; // 线的长度
     int lineWidth = 3; // 线的宽度
     painter.setPen(QPen(Qt::red, lineWidth));
